@@ -7,7 +7,8 @@
 }
 
 .header {
-    color: rgb(0, 17, 255);
+    width: fit-content;
+    color: rgb(121, 47, 63);
 }
 .ul {
     display: flex;
@@ -30,5 +31,17 @@ display: flex;
     color: black
 }
 .para{
-color: rgb(21, 138, 56);
+color: rgb(83, 53, 13);
+font-variant-numeric: 10px ;
+
+}
+.join {
+     width: fit-content;
+    background: rgb(158, 42, 61);
+    border-radius: 190px;
+    display: flex;
+    padding: 10px;
+    text-overflow: ;
+    cursor: pointer;
+    
 }

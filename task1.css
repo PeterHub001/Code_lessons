@@ -1,0 +1,34 @@
+.container {
+    width: fit-content;
+    background: url(background-image.jpg);
+    background-position: center;
+    background-size: full;
+    padding: 100px;
+}
+
+.header {
+    color: rgb(0, 17, 255);
+}
+.ul {
+    display: flex;
+    margin-top: -50px;
+    gap: 60px;
+    align-items: center;
+    padding-left: 260px;
+}
+.search{
+display: flex;
+    gap: 5px;
+    margin-top: -60px;
+    padding-left: 1100px;
+}
+
+.section {
+    color: blue;
+}
+.de{
+    color: black
+}
+.para{
+color: rgb(21, 138, 56);
+}

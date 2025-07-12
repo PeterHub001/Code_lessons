@@ -1,0 +1,29 @@
+.body {
+    margin: 40px;
+    border: 0px;
+    background: url(background-image.jpg);
+    background-position:center ;
+    width: fit-content;
+}
+.logo {
+    color: goldenrod;
+}
+header {
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.navbar {
+ display: flex;
+gap: 20px;
+list-style: none;
+
+}
+.para {
+    color: white;
+}
+.join {
+    color: rgb(43, 255, 0);
+}

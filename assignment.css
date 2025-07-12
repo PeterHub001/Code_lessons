@@ -1,7 +1,7 @@
 .main-container {
     width: full;
     height: 100vh;
-    background: url(background-image.jpg);
+   background: url(background-image.jpg);
     background-position: center;
     background-size: cover;
 }
